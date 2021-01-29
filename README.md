@@ -18,6 +18,9 @@ To include the library,
 require 'vendor/autoload.php';
 
 use \EaseAppPHP\Hmac\Hmac;
+
+$hmac = new Hmac();
+
 ```
 
 ### Create Secret Key
