@@ -1,0 +1,26 @@
+{
+    "name": "easeappphp/hmac",
+    "description": "A very simple and safe PHP library that provides methods to handle HMAC in applications.",
+	"keywords": ["php", "hmac", "shared key authentication", "hash"],
+    "homepage": "https://www.easeapp.org/",
+    "type": "library",
+	"require": {
+        "php": "^7.2"
+    },
+	"require-dev": {
+        "php": "^7.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Raghuveer Dendukuri",
+            "email": "raghuveer.dendukuri@gmail.com"
+        }
+    ],
+	"autoload": {
+       
+	   "psr-4": {
+            "EaseAppPHP\\Hmac\\": "src/"
+        }
+    }
+}
