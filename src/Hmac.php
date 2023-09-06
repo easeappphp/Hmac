@@ -9,13 +9,13 @@ namespace EaseAppPHP\Hmac;
 *
 * Author: Raghuveer Dendukuri
 *
-* Version: 1.0.0
+* Version: 1.0.3
 *
 * Description: A very simple and safe PHP library that provides methods to handle HMAC in applications.
 *
 * License: MIT
 *
-* @copyright 2021 Raghuveer Dendukuri
+* @copyright 2023 Raghuveer Dendukuri
 */
 
 class Hmac {

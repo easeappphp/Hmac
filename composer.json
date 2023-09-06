@@ -5,10 +5,10 @@
     "homepage": "https://www.easeapp.org/",
     "type": "library",
 	"require": {
-        "php": ">=7.3"
+        "php": ">=8.1"
     },
 	"require-dev": {
-        "php": ">=7.3"
+        "php": ">=8.1"
     },
     "license": "MIT",
     "authors": [
